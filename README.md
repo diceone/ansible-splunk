@@ -18,7 +18,7 @@ You need Virtualbox and Vagrant (www.vagrantup.com)
 Download latest Splunk rpm and put it in /sw/splunk-6.1.1-207789-linux-2.6-x86_64.rpm
 
 Check it's the same version as mentioned in
-[playbook.yaml](http://github.com/phips/splunkbox/blob/master/playbook.yaml)
+playbook.yaml
 and adjust the filename accordingly if it's not.
 
 If you have everything installed and in the right place just start the
